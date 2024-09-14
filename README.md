@@ -3,7 +3,7 @@ This website is a Githup homepage clone.
 
 # Technologies
 <ul>
-	<li>HTML: Used to create the page structure.</li>
+	<li>HTML: Used to create the page structure. </li>
 	<li>CSS: Used for styling and responsive design.</li>
   <li>SCSS: This style language formats the content of websites with additional information such as nested rules, variables and mixins.</li>
 </ul>
